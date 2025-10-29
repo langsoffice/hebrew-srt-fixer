@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://langsoffice.github.io/hebrew-srt-fixer/sitemap.xml
