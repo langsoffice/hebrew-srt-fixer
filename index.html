@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- 🔍 SEO Meta Tags -->
+    <title>Hebrew SRT Fixer for video editors – Reverse and Fix Hebrew Subtitles</title>
+    <meta name="description" content="A free online tool that reverses Hebrew subtitles (SRT) and splits long lines for proper display in CapCut’s free version. Perfect for right-to-left languages.">
+    <meta name="keywords" content="Hebrew subtitles, SRT fixer, RTL text, reverse Hebrew text, subtitle editor, Hebrew SRT, Hebrew video editing">
+    <meta name="author" content="langsoffice">
+    <meta name="robots" content="index, follow">
+
+    <!-- Social / Open Graph Tags -->
+    <meta property="og:title" content="Hebrew SRT Fixer for video editors">
+    <meta property="og:description" content="Reverse and fix Hebrew subtitles for proper display in video editors. Simple, free, and fast.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://langsoffice.github.io/hebrew-srt-fixer/">
+    <meta property="og:image" content="https://langsoffice.github.io/hebrew-srt-fixer/preview.png">
+
+    <!-- Favicon (optional) -->
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Hebrew SRT Fixer for video editors</h2>
+        <p>Reverses Hebrew characters and splits long lines for proper display (works with CapCut, Premiere, etc.)</p>
+
+        <label for="maxWords">Split line after N words:</label>
+        <input type="number" id="maxWords" value="4" min="1">
+
+        <label for="srtFile">Upload SRT file:</label>
+        <input type="file" id="srtFile" accept=".srt">
+
+        <button id="processBtn">Fix SRT</button>
+
+        <p id="message"></p>
+        <p class="privacy-note">This tool runs locally in your browser, no data is collected or stored.<br><br>
+<a href="https://ko-fi.com/langsoffice" target="_blank">☕ Support this project</a>
+</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
