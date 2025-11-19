@@ -83,3 +83,13 @@ button:hover {
         font-size: 1.2rem;
     }
 }
+
+/* Demo video thumbnail hover effect */
+#demo-video-section img {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#demo-video-section img:hover {
+    transform: scale(1.05); /* slightly enlarge */
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2); /* stronger shadow */
+}
