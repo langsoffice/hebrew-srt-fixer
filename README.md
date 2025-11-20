@@ -61,12 +61,6 @@ hebrew-srt-fixer/
 
 ---
 
-## 📸 Screenshots
-
-_(Demo and screenshot coming soon!)_
-
----
-
 ## ☕ Support
 If you find this tool useful, you can support the project here:  
 [https://ko-fi.com/langsoffice](https://ko-fi.com/langsoffice)
