@@ -14,10 +14,8 @@ Fix reversed Hebrew subtitles online: Hebrew SRT Fixer reverses text, preserves 
 ---
 
 ## 🚀 Demo
-
-Try it online  
-[Live Demo Link](#)
-_(Demo and screenshot coming soon!)_
+  
+[▶️ Watch the Demo on YouTube](https://www.youtube.com/watch?v=nsBujUCCzkU)
 
 ---
 
