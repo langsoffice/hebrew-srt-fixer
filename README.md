@@ -21,12 +21,12 @@ Fix reversed Hebrew subtitles online: Hebrew SRT Fixer reverses text, preserves 
 
 ## ⚙️ How to Use
 
-1. Open `index.html` in your browser.  
+1. **Open the SRT Fixer in your browser:** [https://langsoffice.github.io/hebrew-srt-fixer/](https://langsoffice.github.io/hebrew-srt-fixer/)    
 2. Set **Max words per first line** (default: 4).  
 3. Upload your `.srt` file.  
 4. Click **Fix SRT**.  
-5. Downloaded file: `fixed_<original_filename>.srt`.  
-6. Import the fixed file into your video editor — Hebrew now displays correctly! ✅  
+5. The fixed file will be downloaded automatically as: `fixed_<original_filename>.srt`  
+6. Import the fixed file into your video editor — Hebrew subtitles will now display correctly! ✅  
 
 ---
 
